@@ -11,7 +11,7 @@
 - ⚡ Fun fact: **My love language is python!**
 
 ## 🚀 Languages and Tools:
-
+|HALLA EMOJI| LANGUAGE|
 |--------|------------|
 | 🐍     | Python     |
 | ☕️    | Java       |
