@@ -14,8 +14,7 @@
 |HALLA EMOJI| LANGUAGE|
 |--------|------------|
 | 🐍     | Python     |
-| ☕️    | Java       |
-| 💻     | C++        |
+| ☕️    | Java         |
 | 🌐     | HTML       |
 | 🖌     | CSS        |
 | 📊     | JavaScript |
