@@ -9,12 +9,12 @@
 - 📫 How to reach me: **ashleenchivanga@gmail.com**
 - 😄 Pronouns: **She/Hers**
 - ⚡ Fun fact: **My love language is python!**
+- I'm learning C#
 
 ## Languages and Tools:
 |HALLA EMOJI| LANGUAGE|
 |--------|------------|
 | 🐍     | Python     |
-| ☕️    | Java         |
 | 🌐     | HTML       |
 | 🖌     | CSS        |
 | 📊     | JavaScript |
