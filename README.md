@@ -1,77 +1,76 @@
 <p align="center">
-  <img width="200" src="https://avatars.githubusercontent.com/u/100872135?v=4">
+    <img width="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
-<h1 align="center">Hey there 👋, I'm Audry Ashleen Chivanga!</h1>
+<h1 align="center"> Hi There, I'm Audry Ashleen Chivanga! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 <p align="center">
-  <a href="https://github.com/ashleenchivanga"><img src="https://img.shields.io/github/followers/ashleenchivanga?label=Follow&style=social"></a>
-  <a href="mailto:ashleenchivanga@gmail.com"><img src="https://img.shields.io/badge/Email-ashleenchivanga@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/audry-ashleen-chivanga-081175231/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=AudryAshleenChivanga.AudryAshleenChivanga" alt="Profile views"> 
+    <a href="https://github.com/AudryAshleenChivanga"><img src="https://img.shields.io/github/followers/AudryAshleenChivanga?label=Follow&style=social" alt="Github"></a>
 </p>
 
----
-
-## 👩‍💻 About Me <img src="https://media.giphy.com/media/fwbzI2k2J0WiM/giphy.gif" width="40">
-- 💡 I'm a **Software Engineering** student passionate about **AI, HealthTech**, and **Education**
-- 📊 Certified **Data Analyst** with a strong foundation in **data storytelling and impact**
-- 🚀 Currently building **Mediqueueless** – a digital health solution to streamline care delivery
-- 👩🏾‍🤝‍👩🏾 Advocating for **SRHR accessibility** through tech & educational tools
-- 🌍 I love **collaborating on global, diverse, and meaningful tech projects**
-- ✨ Fun fact: **My love language is Python 🐍**
-- 🌱 Learning C# & Cloud for cross-platform solutions
+<div align="center" size="20px">Thank you for visiting my GitHub profile! 😊</div>
 
 ---
 
-## 🧠 Skills & Tech Stack
+<h2> 👩‍💻 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"> </h2>
+
+<img align="right" width="55%" alt="GitHub banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+
+<ul>
+<li> 🎓 I’m currently studying <b>Software Engineering</b></li>
+<li> 📊 I’m also a certified <b>Data Analyst</b></li>
+<li> 🤝 I’m looking to collaborate on <b>Diverse Tech Projects</b></li>
+<li> 💡 I’m currently working on <b>Mediqueueless</b></li>
+<li> 💬 Ask me about <b>My Mission, My Goals & My Growth as a Techie</b></li>
+<li> 🔧 I'm learning <b>C#</b> to expand my tech stack</li>
+<li> ⚡ Fun fact: <b>My love language is Python 🐍</b></li>
+</ul>
+
+---
+
+<h2> 🚀 Skills & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" title="Python"></a>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" title="HTML"></a>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" title="CSS"></a>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" title="JavaScript"></a>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" title="SQL"></a>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" title="Git"></a>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" title="Linux"></a>
+    <a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" title="C#"></a>
 </p>
 
 ---
 
-## 🗺 Projects & Passions
-- 🔬 **SRHR Chatbot**: Built a context-aware assistant for health info using GPT-2 + MedQuad + custom SRHR data  
-- 🏥 **Mediqueueless**: Health records simplified – one platform, smarter care  
-- 📚 **STEM for Girls**: Outreach & workshops on menstrual health & digital literacy  
-- 🤖 **AI & ML for Good**: Exploring ethical and impactful uses of ML in underserved communities
+<h2> 🤝 Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
----
-
-## 🤝 Connect With Me <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40">
-<p align="left">
-  <a href="mailto:ashleenchivanga@gmail.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" width="32px"></a>
-  <a href="https://www.linkedin.com/in/audry-ashleen-chivanga-081175231/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32px"></a>
-  <a href="https://github.com/ashleenchivanga"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px"></a>
+<p>
+    <a href="https://www.linkedin.com/in/audry-ashleen-chivanga-081175231/"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" title="LinkedIn"></a>
+    <a href="mailto:ashleenchivanga@gmail.com"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" title="Gmail"></a>
+    <a href="https://github.com/AudryAshleenChivanga"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" title="GitHub"></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<h2> 📈 My GitHub Stats </h2>
+
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ashleenchivanga&show_icons=true&theme=tokyonight&count_private=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=ashleenchivanga&theme=tokyonight" /></td>
-  </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=AudryAshleenChivanga&show_icons=true&theme=tokyonight" alt="Audry's GitHub stats"></td>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AudryAshleenChivanga&theme=tokyonight" alt="Audry's GitHub streak"></td>
+    </tr>
 </table>
 
----
-
-## 😄 Quote That Drives Me
-> *"Technology is not just about innovation; it's about inclusion and impact."* – Me, probably while coding in PJs ☕💻
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudryAshleenChivanga&layout=compact&theme=tokyonight" alt="Top Languages"></p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
+<h2> 😂 A Random Joke to Make You Smile </h2>
+<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 
-<p align="center"><i>Last updated: June 2025 ✨</i></p>
+---
+
+<p>Credits: <a href="https://github.com/AudryAshleenChivanga">Audry Ashleen Chivanga</a></p>
+<p>Last Edited on: 29/06/2025</p>
